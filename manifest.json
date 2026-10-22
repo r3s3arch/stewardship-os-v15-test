@@ -1,0 +1,607 @@
+{
+  "source": "engwebu_usfm.zip (user supplied)",
+  "source_sha256": "27e550351da84ab5dcbcbbe8f9cfd6fb82d3cf4549b4aa9d8a6fb360327c432c",
+  "books": [
+    {
+      "code": "GEN",
+      "name": "Genesis",
+      "group": "Old Testament",
+      "chapters": 50,
+      "verses": 1533
+    },
+    {
+      "code": "EXO",
+      "name": "Exodus",
+      "group": "Old Testament",
+      "chapters": 40,
+      "verses": 1213
+    },
+    {
+      "code": "LEV",
+      "name": "Leviticus",
+      "group": "Old Testament",
+      "chapters": 27,
+      "verses": 859
+    },
+    {
+      "code": "NUM",
+      "name": "Numbers",
+      "group": "Old Testament",
+      "chapters": 36,
+      "verses": 1288
+    },
+    {
+      "code": "DEU",
+      "name": "Deuteronomy",
+      "group": "Old Testament",
+      "chapters": 34,
+      "verses": 959
+    },
+    {
+      "code": "JOS",
+      "name": "Joshua",
+      "group": "Old Testament",
+      "chapters": 24,
+      "verses": 658
+    },
+    {
+      "code": "JDG",
+      "name": "Judges",
+      "group": "Old Testament",
+      "chapters": 21,
+      "verses": 618
+    },
+    {
+      "code": "RUT",
+      "name": "Ruth",
+      "group": "Old Testament",
+      "chapters": 4,
+      "verses": 85
+    },
+    {
+      "code": "1SA",
+      "name": "1 Samuel",
+      "group": "Old Testament",
+      "chapters": 31,
+      "verses": 810
+    },
+    {
+      "code": "2SA",
+      "name": "2 Samuel",
+      "group": "Old Testament",
+      "chapters": 24,
+      "verses": 695
+    },
+    {
+      "code": "1KI",
+      "name": "1 Kings",
+      "group": "Old Testament",
+      "chapters": 22,
+      "verses": 816
+    },
+    {
+      "code": "2KI",
+      "name": "2 Kings",
+      "group": "Old Testament",
+      "chapters": 25,
+      "verses": 719
+    },
+    {
+      "code": "1CH",
+      "name": "1 Chronicles",
+      "group": "Old Testament",
+      "chapters": 29,
+      "verses": 942
+    },
+    {
+      "code": "2CH",
+      "name": "2 Chronicles",
+      "group": "Old Testament",
+      "chapters": 36,
+      "verses": 822
+    },
+    {
+      "code": "EZR",
+      "name": "Ezra",
+      "group": "Old Testament",
+      "chapters": 10,
+      "verses": 280
+    },
+    {
+      "code": "NEH",
+      "name": "Nehemiah",
+      "group": "Old Testament",
+      "chapters": 13,
+      "verses": 406
+    },
+    {
+      "code": "EST",
+      "name": "Esther",
+      "group": "Old Testament",
+      "chapters": 10,
+      "verses": 167
+    },
+    {
+      "code": "JOB",
+      "name": "Job",
+      "group": "Old Testament",
+      "chapters": 42,
+      "verses": 1070
+    },
+    {
+      "code": "PSA",
+      "name": "Psalms",
+      "group": "Old Testament",
+      "chapters": 150,
+      "verses": 2461
+    },
+    {
+      "code": "PRO",
+      "name": "Proverbs",
+      "group": "Old Testament",
+      "chapters": 31,
+      "verses": 915
+    },
+    {
+      "code": "ECC",
+      "name": "Ecclesiastes",
+      "group": "Old Testament",
+      "chapters": 12,
+      "verses": 222
+    },
+    {
+      "code": "SNG",
+      "name": "Song of Solomon",
+      "group": "Old Testament",
+      "chapters": 8,
+      "verses": 117
+    },
+    {
+      "code": "ISA",
+      "name": "Isaiah",
+      "group": "Old Testament",
+      "chapters": 66,
+      "verses": 1292
+    },
+    {
+      "code": "JER",
+      "name": "Jeremiah",
+      "group": "Old Testament",
+      "chapters": 52,
+      "verses": 1364
+    },
+    {
+      "code": "LAM",
+      "name": "Lamentations",
+      "group": "Old Testament",
+      "chapters": 5,
+      "verses": 154
+    },
+    {
+      "code": "EZK",
+      "name": "Ezekiel",
+      "group": "Old Testament",
+      "chapters": 48,
+      "verses": 1273
+    },
+    {
+      "code": "DAN",
+      "name": "Daniel",
+      "group": "Old Testament",
+      "chapters": 12,
+      "verses": 357
+    },
+    {
+      "code": "HOS",
+      "name": "Hosea",
+      "group": "Old Testament",
+      "chapters": 14,
+      "verses": 197
+    },
+    {
+      "code": "JOL",
+      "name": "Joel",
+      "group": "Old Testament",
+      "chapters": 3,
+      "verses": 73
+    },
+    {
+      "code": "AMO",
+      "name": "Amos",
+      "group": "Old Testament",
+      "chapters": 9,
+      "verses": 146
+    },
+    {
+      "code": "OBA",
+      "name": "Obadiah",
+      "group": "Old Testament",
+      "chapters": 1,
+      "verses": 21
+    },
+    {
+      "code": "JON",
+      "name": "Jonah",
+      "group": "Old Testament",
+      "chapters": 4,
+      "verses": 48
+    },
+    {
+      "code": "MIC",
+      "name": "Micah",
+      "group": "Old Testament",
+      "chapters": 7,
+      "verses": 105
+    },
+    {
+      "code": "NAM",
+      "name": "Nahum",
+      "group": "Old Testament",
+      "chapters": 3,
+      "verses": 47
+    },
+    {
+      "code": "HAB",
+      "name": "Habakkuk",
+      "group": "Old Testament",
+      "chapters": 3,
+      "verses": 56
+    },
+    {
+      "code": "ZEP",
+      "name": "Zephaniah",
+      "group": "Old Testament",
+      "chapters": 3,
+      "verses": 53
+    },
+    {
+      "code": "HAG",
+      "name": "Haggai",
+      "group": "Old Testament",
+      "chapters": 2,
+      "verses": 38
+    },
+    {
+      "code": "ZEC",
+      "name": "Zechariah",
+      "group": "Old Testament",
+      "chapters": 14,
+      "verses": 211
+    },
+    {
+      "code": "MAL",
+      "name": "Malachi",
+      "group": "Old Testament",
+      "chapters": 4,
+      "verses": 55
+    },
+    {
+      "code": "TOB",
+      "name": "Tobit",
+      "group": "Deuterocanonical Books",
+      "chapters": 14,
+      "verses": 244
+    },
+    {
+      "code": "JDT",
+      "name": "Judith",
+      "group": "Deuterocanonical Books",
+      "chapters": 16,
+      "verses": 339
+    },
+    {
+      "code": "ESG",
+      "name": "Esther (Greek)",
+      "group": "Deuterocanonical Books",
+      "chapters": 10,
+      "verses": 205
+    },
+    {
+      "code": "WIS",
+      "name": "Wisdom",
+      "group": "Deuterocanonical Books",
+      "chapters": 19,
+      "verses": 436
+    },
+    {
+      "code": "SIR",
+      "name": "Sirach",
+      "group": "Deuterocanonical Books",
+      "chapters": 51,
+      "verses": 1364
+    },
+    {
+      "code": "BAR",
+      "name": "Baruch",
+      "group": "Deuterocanonical Books",
+      "chapters": 6,
+      "verses": 213
+    },
+    {
+      "code": "1MA",
+      "name": "1 Maccabees",
+      "group": "Deuterocanonical Books",
+      "chapters": 16,
+      "verses": 924
+    },
+    {
+      "code": "2MA",
+      "name": "2 Maccabees",
+      "group": "Deuterocanonical Books",
+      "chapters": 15,
+      "verses": 555
+    },
+    {
+      "code": "1ES",
+      "name": "1 Esdras",
+      "group": "Deuterocanonical Books",
+      "chapters": 9,
+      "verses": 448
+    },
+    {
+      "code": "MAN",
+      "name": "Prayer of Manasses",
+      "group": "Deuterocanonical Books",
+      "chapters": 1,
+      "verses": 15
+    },
+    {
+      "code": "PS2",
+      "name": "Psalm 151",
+      "group": "Deuterocanonical Books",
+      "chapters": 1,
+      "verses": 7
+    },
+    {
+      "code": "3MA",
+      "name": "3 Maccabees",
+      "group": "Deuterocanonical Books",
+      "chapters": 7,
+      "verses": 228
+    },
+    {
+      "code": "2ES",
+      "name": "2 Esdras",
+      "group": "Deuterocanonical Books",
+      "chapters": 16,
+      "verses": 944
+    },
+    {
+      "code": "4MA",
+      "name": "4 Maccabees",
+      "group": "Deuterocanonical Books",
+      "chapters": 18,
+      "verses": 484
+    },
+    {
+      "code": "DAG",
+      "name": "Daniel (Greek)",
+      "group": "Deuterocanonical Books",
+      "chapters": 14,
+      "verses": 530
+    },
+    {
+      "code": "MAT",
+      "name": "Matthew",
+      "group": "New Testament",
+      "chapters": 28,
+      "verses": 1071
+    },
+    {
+      "code": "MRK",
+      "name": "Mark",
+      "group": "New Testament",
+      "chapters": 16,
+      "verses": 678
+    },
+    {
+      "code": "LUK",
+      "name": "Luke",
+      "group": "New Testament",
+      "chapters": 24,
+      "verses": 1150
+    },
+    {
+      "code": "JHN",
+      "name": "John",
+      "group": "New Testament",
+      "chapters": 21,
+      "verses": 879
+    },
+    {
+      "code": "ACT",
+      "name": "Acts",
+      "group": "New Testament",
+      "chapters": 28,
+      "verses": 1004
+    },
+    {
+      "code": "ROM",
+      "name": "Romans",
+      "group": "New Testament",
+      "chapters": 16,
+      "verses": 433
+    },
+    {
+      "code": "1CO",
+      "name": "1 Corinthians",
+      "group": "New Testament",
+      "chapters": 16,
+      "verses": 437
+    },
+    {
+      "code": "2CO",
+      "name": "2 Corinthians",
+      "group": "New Testament",
+      "chapters": 13,
+      "verses": 257
+    },
+    {
+      "code": "GAL",
+      "name": "Galatians",
+      "group": "New Testament",
+      "chapters": 6,
+      "verses": 149
+    },
+    {
+      "code": "EPH",
+      "name": "Ephesians",
+      "group": "New Testament",
+      "chapters": 6,
+      "verses": 155
+    },
+    {
+      "code": "PHP",
+      "name": "Philippians",
+      "group": "New Testament",
+      "chapters": 4,
+      "verses": 104
+    },
+    {
+      "code": "COL",
+      "name": "Colossians",
+      "group": "New Testament",
+      "chapters": 4,
+      "verses": 95
+    },
+    {
+      "code": "1TH",
+      "name": "1 Thessalonians",
+      "group": "New Testament",
+      "chapters": 5,
+      "verses": 89
+    },
+    {
+      "code": "2TH",
+      "name": "2 Thessalonians",
+      "group": "New Testament",
+      "chapters": 3,
+      "verses": 47
+    },
+    {
+      "code": "1TI",
+      "name": "1 Timothy",
+      "group": "New Testament",
+      "chapters": 6,
+      "verses": 113
+    },
+    {
+      "code": "2TI",
+      "name": "2 Timothy",
+      "group": "New Testament",
+      "chapters": 4,
+      "verses": 83
+    },
+    {
+      "code": "TIT",
+      "name": "Titus",
+      "group": "New Testament",
+      "chapters": 3,
+      "verses": 46
+    },
+    {
+      "code": "PHM",
+      "name": "Philemon",
+      "group": "New Testament",
+      "chapters": 1,
+      "verses": 25
+    },
+    {
+      "code": "HEB",
+      "name": "Hebrews",
+      "group": "New Testament",
+      "chapters": 13,
+      "verses": 303
+    },
+    {
+      "code": "JAS",
+      "name": "James",
+      "group": "New Testament",
+      "chapters": 5,
+      "verses": 108
+    },
+    {
+      "code": "1PE",
+      "name": "1 Peter",
+      "group": "New Testament",
+      "chapters": 5,
+      "verses": 105
+    },
+    {
+      "code": "2PE",
+      "name": "2 Peter",
+      "group": "New Testament",
+      "chapters": 3,
+      "verses": 61
+    },
+    {
+      "code": "1JN",
+      "name": "1 John",
+      "group": "New Testament",
+      "chapters": 5,
+      "verses": 105
+    },
+    {
+      "code": "2JN",
+      "name": "2 John",
+      "group": "New Testament",
+      "chapters": 1,
+      "verses": 13
+    },
+    {
+      "code": "3JN",
+      "name": "3 John",
+      "group": "New Testament",
+      "chapters": 1,
+      "verses": 14
+    },
+    {
+      "code": "JUD",
+      "name": "Jude",
+      "group": "New Testament",
+      "chapters": 1,
+      "verses": 25
+    },
+    {
+      "code": "REV",
+      "name": "Revelation",
+      "group": "New Testament",
+      "chapters": 22,
+      "verses": 404
+    }
+  ],
+  "counts": {
+    "verses": 38034,
+    "notes": 1927,
+    "books": 81,
+    "chapters": 1402
+  },
+  "extraction_warnings": [
+    "SIR 1:5 empty after extraction",
+    "SIR 1:7 empty after extraction",
+    "SIR 1:21 empty after extraction",
+    "SIR 3:19 empty after extraction",
+    "SIR 10:21 empty after extraction",
+    "SIR 13:14 empty after extraction",
+    "SIR 17:5 empty after extraction",
+    "SIR 17:9 empty after extraction",
+    "SIR 17:16 empty after extraction",
+    "SIR 17:18 empty after extraction",
+    "SIR 17:21 empty after extraction",
+    "SIR 18:3 empty after extraction",
+    "SIR 19:21 empty after extraction",
+    "SIR 20:3 empty after extraction",
+    "SIR 20:32 empty after extraction",
+    "SIR 23:28 empty after extraction",
+    "SIR 24:18 empty after extraction",
+    "SIR 24:24 empty after extraction",
+    "SIR 25:12 empty after extraction",
+    "LUK 17:36 empty after extraction",
+    "ACT 8:37 empty after extraction",
+    "ACT 15:34 empty after extraction",
+    "ACT 24:7 empty after extraction",
+    "ROM 16:25 empty after extraction"
+  ],
+  "warning_count": 24,
+  "status": "Preview extraction; not yet a verse-by-verse audited canonical dataset"
+}
